@@ -14,8 +14,8 @@ Run the following commands in your terminal:
 
 ```bash
 git clone https://github.com/Cyberthreatalliance-cta/Nsociety.git
-cd NSociety
-sudo bash NSociety.sh
+cd Nsociety
+sudo bash Nsociety.sh
 ```
 ## Disclaimer
 
