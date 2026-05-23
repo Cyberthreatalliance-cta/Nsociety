@@ -13,7 +13,7 @@ Our goal is to keep improving and expanding this project as we grow as developer
 Run the following commands in your terminal:
 
 ```bash
-git clone https://github.com/Cyberthreatalliance-cta/NSociety.git
+git clone https://github.com/Cyberthreatalliance-cta/Nsociety.git
 cd NSociety
 sudo bash NSociety.sh
 ```
