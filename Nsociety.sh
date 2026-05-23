@@ -26,7 +26,7 @@ echo " ██╔██╗ ██║███████╗██║   ██║
 echo " ██║╚██╗██║╚════██║██║   ██║██║     ██║██╔══╝     ██║     ╚██╔╝  "
 echo " ██║ ╚████║███████║╚██████╔╝╚██████╗██║███████╗   ██║      ██║   "
 echo " ╚═╝  ╚═══╝╚══════╝ ╚═════╝  ╚═════╝╚═╝╚══════╝   ╚═╝      ╚═╝   "
-    echo -e "${CYAN}  ═══════════════════════════════════════════════════════
+    echo -e "${CYAN}  ═══════════════════════════════════════════════════════"
     echo -e "   Authorized Use Only — Authorized usage ONLY"
     echo -e "  ═══════════════════════════════════════════════════════${NC}"
     echo ""
@@ -173,11 +173,11 @@ main_menu() {
 device_discovery_menu() {
     while true; do
         show_banner
-        echo -e "${BOLD}${GREEN}═══════════════════════════════════════════${NC}"
-        echo -e "${BOLD}${GREEN}  DEVICE DISCOVERY — Find Everything${NC}"
-        echo -e "${BOLD}${GREEN}═══════════════════════════════════════════${NC}"
-        echo ""
-        echo -e "${RED}[1]${NC} Quick ARP Scan (netdiscover) — Fast device list"
+echo -e "${BOLD}${GREEN}═══════════════════════════════════════════${NC}"
+echo -e "${BOLD}${GREEN}  DEVICE DISCOVERY — Find Everything${NC}"
+echo -e "${BOLD}${GREEN}═══════════════════════════════════════════${NC}"
+echo ""
+echo -e "${RED}[1]${NC} Quick ARP Scan (netdiscover) — Fast device list"
         echo -e "${RED}[2]${NC} Deep Scan + Hostnames + OS (nmap -sn -O)"
         echo -e "${RED}[3]${NC} Bettercap Probe — Get mDNS/NetBIOS names"
         echo -e "${RED}[4]${NC} Masscan — Scan entire subnet for open ports"
