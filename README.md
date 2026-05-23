@@ -1,4 +1,4 @@
-# NSociety
+# Nsociety
 
 Welcome to **NSociety**, a project created by the **C.T.A (Cyber Threat Alliance)** team.
 
