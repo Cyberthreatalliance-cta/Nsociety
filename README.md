@@ -19,7 +19,7 @@ sudo bash Nsociety.sh
 ```
 ## Disclaimer
 
-NSociety is developed by the C.T.A (Cyber Threat Alliance) team strictly for educational, research, and authorized security testing purposes only.
+Nsociety is developed by the C.T.A (Cyber Threat Alliance) team strictly for educational, research, and authorized security testing purposes only.
 
 The C.T.A team and all contributors are not responsible for any misuse, damage, data loss, or legal consequences caused by the use of this tool. Users are solely responsible for their actions.
 
